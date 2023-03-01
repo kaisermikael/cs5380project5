@@ -1,8 +1,8 @@
 # cs5380project5
 
-## Project Report -
+## Project Report - https://docs.google.com/document/d/1aWzRrKaSI2Ul2IOwTwpm9_ILK-tX8qscVWX9VFW9uFk/edit?usp=sharing
 
-## Project Presentation -
+## Project Presentation - https://docs.google.com/presentation/d/1yDNCKLeLXZiSCcKrQPUE-W7xMCIZAutlxBAdqRMd0XQ/edit?usp=sharing
 
 ## Cinemagoer Python Wrapper - https://pypi.org/project/cinemagoer/
 
